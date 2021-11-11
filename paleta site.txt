@@ -1,0 +1,31 @@
+#f8dfd8
+#e07d75
+#87464c
+#91ddb7
+#a4e2b3
+#56837c
+#2a4b4a
+#70c3a1
+#fcffed
+#f6f07d
+#f9eb70
+#f2ce48
+#e6a12e
+#d28847
+#eeebd7
+#787c73
+#e1d2ae
+AFK Arena ----------------------------------------------------
+
+/* CSS HEX */
+--froly: #f46a85;
+--carnation: #f74b63;
+--tawny-port: #6d293a;
+--cabaret: #d93f61;
+--aquamarine: #59fdfe;
+--fountain-blue: #5cadca;
+--bermuda: #7bdadc;
+--smalt-blue: #478e8b;
+--woodsmoke: #121218;
+#64bdc0;
+Valorant------------------------------------------------------

@@ -1,0 +1,7 @@
+funçoes do jogo:
+ * funçao de logar
+ * 																									
+ * seleçao de personagens/agente
+ * seleçao do modo de jogo
+ * compra de itens detro da partida 
+ * uso de habilidades 
